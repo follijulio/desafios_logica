@@ -1,5 +1,5 @@
 function main() {
-  var array = [7, 9, 11, 13];
+  var array = [7, 4, 44, 4, 4];
 
   var soma = somarPares(array);
 
@@ -7,13 +7,6 @@ function main() {
 }
 
 function somarPares(array) {
-  let soma = 0;
-
-  array.forEach((item) => {
-    if (item % 2 == 0) {
-      soma = soma + item;
-    }
-  });
-  return soma;
+  return array.reduce((a, b) => (b % 2 == 0 ? a + b : 0), 0);
 }
 main();

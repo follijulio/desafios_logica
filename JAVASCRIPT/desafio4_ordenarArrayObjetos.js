@@ -5,11 +5,11 @@ function main() {
     { nome: "Bruno", idade: 20 },
     { nome: "Carlos", idade: 30 },
   ];
-  console.log("ANTES")
+  console.log("ANTES");
   objetos.map((item) => console.log(item.idade, "", item.nome));
   var arrayOrdenado = ordernarIdade(objetos);
-  
-  console.log("\nDEPOIS")
+
+  console.log("\nDEPOIS");
   arrayOrdenado.map((item) => console.log(item.idade, "", item.nome));
 }
 
@@ -43,7 +43,7 @@ function descobrirMenor(objetos = []) {
 
 main();
 
-//JEITO MAIS SIMPLES
+//JEITO DA FIA DO CRANCO DA IA
 // function main() {
 //   const objetos = [
 //     { nome: "Ana", idade: 25 },

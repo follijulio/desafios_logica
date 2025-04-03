@@ -1,6 +1,5 @@
 def contarVogais(array):
     vogais =["a", "e", "i", "o", "u"]
-    
     resultado = sum(1 for letra in array if letra in vogais)
     return resultado
 
