@@ -1,0 +1,15 @@
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\bin\Debug\net9.0\MeuDesafio.exe
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\bin\Debug\net9.0\MeuDesafio.deps.json
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\bin\Debug\net9.0\MeuDesafio.runtimeconfig.json
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\bin\Debug\net9.0\MeuDesafio.dll
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\bin\Debug\net9.0\MeuDesafio.pdb
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\MeuDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\MeuDesafio.AssemblyInfoInputs.cache
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\MeuDesafio.AssemblyInfo.cs
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\MeuDesafio.csproj.CoreCompileInputs.cache
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\MeuDesafio.sourcelink.json
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\MeuDesafio.dll
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\refint\MeuDesafio.dll
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\MeuDesafio.pdb
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\MeuDesafio.genruntimeconfig.cache
+C:\Users\JULIO\OneDrive\Documentos\1programacao\desafios_logica\CSHARP\MeuDesafio\obj\Debug\net9.0\ref\MeuDesafio.dll
