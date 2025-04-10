@@ -1,3 +1,3 @@
 <h2>
-Desafios em JavaScrip E Python
+Desafios em JavaScrit, Python e... PHP
 </h2>
