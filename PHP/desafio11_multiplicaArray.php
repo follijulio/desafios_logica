@@ -20,7 +20,4 @@ function main(): void
     echo multiplicaArray(array(1, 2, 3, 4));
 }
 
-
-
-
 main();
