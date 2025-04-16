@@ -15,7 +15,7 @@ function calcularPontos(acoes) {
   acoes.forEach((item) => {
     const ponto = pontuacoes.find((pontuacao) => pontuacao.tipo === item);
 
-    soma += ponto ? (ponto.pontuacao ? ponto.pontuacao : 0) : 0;
+    soma += ponto ? ponto.pontuacao : 0;
   });
 
   return soma;
