@@ -19,6 +19,8 @@ const possiveisMovimentos = {
   },
 };
 
+
+// * Mover uma posição em uma grade bidimensional.
 function mover(posicao, movimento) {
   const [x, y] = posicao;
 
