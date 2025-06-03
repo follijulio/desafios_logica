@@ -20,7 +20,7 @@ function calcularPontos(acoes) {
 
   return soma;
 }
-
+//funcionar mesmo kskskks 
 function main() {
   const resultados = [];
 
