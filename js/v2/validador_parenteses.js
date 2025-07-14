@@ -4,27 +4,21 @@
 
 function validaParenteses(params) {
   const items = params.split("");
-  let l = 0;
-  let r = 0;
+  const stack = [];
 
-  for (i in items) {
-    if (items[i] === "(") {
-      l += 1;
-    } else {
-      if (i == 0) {
-        return false;
-      } else {
-        r += 1;
-      }
+  for (let char of items) {
+    if (char === "(") {
+      stack.push("(");
+    } else if (char === ")") {
+      if (stack.length === 0) return false;
+      stack.pop();
     }
   }
-  if (r !== l) return false;
-
-  return true;
+  return stack.length == 0;
 }
 
 function main() {
-  const r = validaParenteses(")");
+  const r = validaParenteses("(()()(()())())");
   console.log(r);
 }
 
